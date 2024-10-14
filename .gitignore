@@ -141,3 +141,7 @@ cloc.pl
 # Custom
 user_accounts.db
 node_modules
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
